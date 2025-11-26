@@ -19,6 +19,12 @@ I'm a passionate Computer Science student at **Samara University** currently div
 - Contribute to an **Open-Source Project**
 - Build a portfolio of practical projects
 
+## Fun facts
+
+- I have a cat
+- I don't like woke up early, but I like meet the dawn
+- Hobbi: gym, skiing, singing  
+
 ---
 
 ⭐️ From [Bavtyta Dmitry](https://github.com/Bavtyta) | Student at Samara University
